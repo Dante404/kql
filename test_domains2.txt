@@ -5,3 +5,4 @@
 "2023-01-01 11:21:13","https://urlhaus.abuse.ch/whatever","test"
 "2023-01-01 11:21:13","https://urlhaus.abuse","test"
 "2023-01-01 11:21:13","https://youtube.com/","test"
+"2023-01-01 11:21:13","http://140.82.114.25:30001/aa","test"
