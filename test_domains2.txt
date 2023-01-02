@@ -1,7 +1,7 @@
 # Dateadded (UTC),URL,URL_status,Threat,Host,IPaddress,ASnumber,Country
 "2023-01-02 09:19:12","http://193.169.255.78/FW-APGKSDTPX4HOAUJJMBVDNXPOHZ.PDF.zip","online","malware_download","193.169.255.78","193.169.255.78","213010","PL"
 "2023-01-01 11:21:13","http://79.186.51.238:47713/Mozi.a","offline","malware_download","79.186.51.238","79.186.51.238","5617","PL"
-"2023-01-01 11:21:13","http://urlhaus.com/","test"
-"2023-01-01 11:21:13","https://urlhaus.com/","test"
-"2023-01-01 11:21:13","https://urlhaus.com/whatever","test"
+"2023-01-01 11:21:13","http://urlhaus.abuse.ch/","test"
+"2023-01-01 11:21:13","https://urlhaus.abuse.ch/whatever","test"
+"2023-01-01 11:21:13","https://urlhaus.abuse","test"
 "2023-01-01 11:21:13","https://youtube.com/","test"
